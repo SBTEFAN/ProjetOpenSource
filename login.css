@@ -1,7 +1,7 @@
 /* NavBar */
 .navbar-inverse {
-    background-color: #273A5A;
-    border-color: #080808;
+    background-color: green;
+    border-color: pink;
 }
 .navbar-inverse .navbar-brand {
     color: #ffffff;
@@ -14,7 +14,7 @@ body {
     font-size: 14px;
     line-height: 1.42857143;
     color: #333;
-    background-color: #ecf0f5;
+    background-color: red;
 }
 
 /* Formulaire */
